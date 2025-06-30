@@ -16,7 +16,7 @@ A smart IR blaster system that controls appliances like TVs and ACs using voice 
 
 ## Circuit Diagram
 ![1000054007](https://github.com/user-attachments/assets/fb70de4b-1060-4449-a395-1b0318f6e4da)
-![1000054008](https://github.com/user-attachments/assets/cb4fa45d-4622-4862-aa91-e0831ef82dab)
+![Circuit Diagram](https://github.com/user-attachments/assets/340d4af6-4ff6-4dcf-af5c-6e800f717e6b)
 
 
 
